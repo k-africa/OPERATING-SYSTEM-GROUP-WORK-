@@ -1,8 +1,8 @@
 # Memory-management
  Group work:
- ERNEST AGYEMANG                  219IT01000038
- JANET    OPPONG                      219EI01000035
- BROMINI OGHENEYOMA          214IT02002403
+ ERNEST AGYEMANG        219IT01000038
+ JANET    OPPONG        219EI01000035
+ BROMINI OGHENEYOMA     214IT02002403
  
  In operating systems, memory management is the function responsible for managing the computer's primary memory. The memory management function keeps track of the status of each memory location, either allocated or free. It tracks when memory is freed or unallocated and updates the status.
 
